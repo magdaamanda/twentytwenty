@@ -14,6 +14,10 @@
  * @since Twenty Twenty 1.0
  */
 
+/*
+tämä kommentti lisätty 20-04-2021 00:45 oman koneen kansiossa, se siirretään gittiin ja ladataan gitistä AWS:ssä hostatun bitnamin rootin commandlinen kautta sille kuuluvaan teemakansioon.
+*/
+
 get_header();
 ?>
 
